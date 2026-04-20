@@ -48,7 +48,7 @@ export default function Hero() {
           />
 
 
-          <div className="absolute right-2 mmd:right-5 md:right-7 lg:right-25 xl:right-50 2xl:right-58  top-50  mmd:top-55 mlg:top-60 md:top-1/4 lg:top-1/3 xl:top-70 2xl:top-75 -rotate-3 ">
+          <div className="absolute right-2 mmd:right-5 md:right-7 lg:right-25 xl:right-50 2xl:right-58  top-50  mmd:top-55 mlg:top-60 md:top-1/4 lg:top-1/3 xl:top-70 2xl:top-75  -rotate-3 ">
             <div className="relative flex items-center justify-center">
 
               <img

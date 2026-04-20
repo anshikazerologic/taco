@@ -3,8 +3,8 @@
 @theme {
   --breakpoint-mmd:375px;
   --breakpoint-mlg:425px;
-  --breakpoint-3xl: 1800px;
-  --breakpoint-4xl:2200px;
+  --breakpoint-4k:2560px;
+
 }
 
 @theme {
@@ -49,7 +49,7 @@
   text-shadow: 0px 2px 0 #E4531E;
 }
 .stroke-text {
-  -webkit-text-stroke: 2px #538c42;
+  -webkit-text-stroke: 1px #538c42;
   color: transparent;
 }
 
